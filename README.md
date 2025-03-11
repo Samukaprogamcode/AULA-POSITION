@@ -1,10 +1,10 @@
 # AULA SOBRE: POSITION 🚩
 
-> Este repositório foi criado como parte de um projeto de aula, **sem fins lucrativos**. O objetivo é aplicar e melhorar as habilidades adquiridas durante o curso em [CSS em aplicações para FRONT-END].
+> Este repositório foi criado como parte de um projeto de aula, **sem fins lucrativos**. O objetivo é aplicar e melhorar as habilidades adquiridas durante o curso em CSS em aplicações para FRONT-END.
 
 ## 📝 Descrição
 
-Este projeto foi desenvolvido para fins educacionais, com o objetivo de aprender mais sobre uso da tag de SHADOW e efeitos GRADIENTES com aplicações em CSS. Ele é resultado de atividades realizadas em aula.
+Este projeto foi desenvolvido para fins educacionais, com o objetivo de aprender mais sobre uso da tag de POSITON com aplicações em CSS. Ele é resultado de atividades realizadas em aula, apenas aplicando de forma pratica para melhor absorção de conteudo explicado em aula.
 
 ## 🔍 Objetivos
 
